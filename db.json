@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "title": "Entregar relatório",
+      "description": "Relatório mensal",
+      "status": "Concluída",
+      "dueDate": "2025-07-30"
+    },
+    {
+      "id": "3",
+      "title": "Corrigir bug X",
+      "description": "Bug no formulário",
+      "status": "Atrasada",
+      "dueDate": "2025-08-01"
+    },
+    {
+      "id": "ce18",
+      "title": "Comprar material",
+      "description": "Comprar folhas, canetas",
+      "dueDate": "2025-09-10",
+      "status": "Concluída"
+    }
+  ]
+}
